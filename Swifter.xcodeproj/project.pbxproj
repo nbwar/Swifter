@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		0115A18B1B1CE18A001BC715 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		0115A18C1B1CE1BF001BC715 /* Dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dictionary.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		0115A1841B1CE17B001BC715 = {
 			isa = PBXGroup;
 			children = (
+				0115A18C1B1CE1BF001BC715 /* Dictionary.swift */,
+				0115A18B1B1CE18A001BC715 /* Array.swift */,
 			);
 			sourceTree = "<group>";
 		};
